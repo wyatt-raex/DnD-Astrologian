@@ -5,16 +5,16 @@ Tags: #TTRPG #DnD #DnD-Classes
 
 ## Class Features
 ### Hit Points
-*Hit Dice:* 1d6 per AST level
-*Hit Points at 1st Level:* 6 + Constitution modifier
-*Hit Points at Higher Levels:* 1d6 (or 4) + your Constitution modifier per AST level after 1st
+- *Hit Dice:* 1d6 per AST level
+- *Hit Points at 1st Level:* 6 + Constitution modifier
+- *Hit Points at Higher Levels:* 1d6 (or 4) + your Constitution modifier per AST level after 1st
 
 ### Proficiencies
-*Armor:* <i><u>None or Light? Probably none</u></i>
-*Weapons:* Planispheres/Star Globes, Daggers, darts, slings,  light crossbows
-*Tools:* None
-*Saving Throws:* Wisdom, Intelligence
-*Skills:* Choose two from Arcana, Medicine, Investigation, Religion, Insight, Perception 
+- *Armor:* <i><u>None or Light? Probably none</u></i>
+- *Weapons:* Planispheres/Star Globes, Daggers, darts, slings,  light crossbows
+- *Tools:* None
+- *Saving Throws:* Wisdom, Intelligence
+- *Skills:* Choose two from Arcana, Medicine, Investigation, Religion, Insight, Perception 
 
 ## Astrologian Sects (Subclasses)
 
