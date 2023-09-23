@@ -23,13 +23,16 @@ Tags: #TTRPG #DnD #DnD-Classes
 ## Astrologian Cards
 - Each card has a <i><u>Possibly unique</i></u> in combat/out of combat ability. (*Challenge is making each unique yet general enough to have some use no matter what*)
 
+### Play Limit of Astologian Cards
+- Similar to Bard's Bardic inspiration. Astrologian cards can be played up to a number of times equal to your Wisdom modifier. You regain any expended uses when you finish a long rest.
+
 ### Arcana Cards
-Trying to base these off the old AST card effects: https://www.reddit.com/r/ffxiv/comments/7xbaux/wtf_does_that_ast_card_do_again_cheat_sheet/
+Trying to base these off of the old AST card effects: https://www.reddit.com/r/ffxiv/comments/7xbaux/wtf_does_that_ast_card_do_again_cheat_sheet/
 #### The Balance
 - *In Combat:* The next attack the targeted entity does will have <i><u>1dX</i></u> additional damage added to it of the same type.
 - *Out of Combat:*
 #### The Arrow
-- *Effect:* The targeted entity gains <i><u>Advantage | or plus 1d4 amount</u></i> to their next Attack/Skill/Spell check (<i>Functions similarly to Bless/Guidance</i>).
+- *Effect:* The targeted entity gains <i><u>Advantage | or plus 1d4 amount</u></i> to their next Attack/Skill/Spell check (<i>functions similarly to Bless/Guidance</i>).
 #### The Spear
 - *In Combat:*
 - *Out of Combat:*
@@ -71,7 +74,7 @@ Trying to base these off the old AST card effects: https://www.reddit.com/r/ffxi
 #### Malefic
 - Cantrip
 - Action
-- 1d8 radiant damage. Damage increases by 1d8 at levels: <i><u>X, X, X, X</i></u> etc.
+- 1d8 radiant/<i><u>necrotic</i></u> damage. Damage increases by 1d8 at levels: <i><u>X, X, X, X</i></u> etc.
 - *Put range here*
 
 #### Draw Arcana
@@ -79,6 +82,7 @@ Trying to base these off the old AST card effects: https://www.reddit.com/r/ffxi
 - <i><u>Bonus Action?</i></u>
 - Roll 1d6 to draw an [[#Arcana Cards|Arcana]] Card.
 - Card expires after <i><u>that turn | or until played/combat ends | x number of hours</i></u>.
+- Outside of combat (<i>unless using</i> [[#Lightspeed]]) a maximum of 1 card can be drawn per <i><u>1</u></i> hour(s).
 - See [[#Astrologian Cards]]
 - *Can not hold both an* [[#Arcana Cards|Arcana]] *card and* a [[#Minor Arcana Cards|Minor Arcana]] *card at the same time*.
 
@@ -87,12 +91,14 @@ Trying to base these off the old AST card effects: https://www.reddit.com/r/ffxi
 - <i><u>Bonus Action?</i></u>
 - *Unlocked at X AST lvl*
 - Roll 1d4. On even roll [[#Lady of Crowns]] is drawn. On odd roll [[#Lord of Crowns]] is drawn. 
+- Outside of combat (<i>unless using</i> [[#Lightspeed]]) a maximum of 1 card can be drawn per <i><u>1</u></i> hour(s).
 - *Can not hold both an* [[#Arcana Cards|Arcana]] *card and* a [[#Minor Arcana Cards|Minor Arcana]] *card at the same time*.
 
 #### Play
 - Lvl 1 Spell <i><u>Or maybe some other resource like Bardic Inspiration?</i></u>
 - Action
 - Activates drawn card effect (See [[#Astrologian Cards]]).
+- Both [[#Arcana Cards]] and [[#Minor Arcana Cards]] can be played up to a certain amount of times per long rest. See [[#Play Limit of Astologian Cards]] for more details.
 - *Put range here*
 
 #### Lightspeed
