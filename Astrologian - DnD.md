@@ -24,13 +24,15 @@ Tags: #TTRPG #DnD #DnD-Classes
 ## Astrologian Sects (Subclasses)
 [[#Astrologian TOC|Back to Top]]
 
-- Subclass gained at <i><u>level 3</i></u>.
+ Subclass gained at <i><u>level 3</i></u>.
 ### Sharlayan Astronomy Sect
 - <i><u>Could have one subclass/sect here that uses `divination` skill the same way as Wizard's divination to change a dice roll once per day.</i></u>
+- <i><u>At AST level X gain proficiency in X skills.</u></i>
 
 ### Hingan Geomancy Sect
-- <i><u>Increased HP gain per level starting at level 3?</u></i>
+- <i><u>Increased HP gain per level starting at level 3 to 1d8 instead of 1d6?</u></i>
 - <i><u>Some ability/effect/variation on card mechanic itself?</u></i>
+- <i><u>At AST level X gain proficiency in X skills.</u></i>
 
 ## Astrologian Cards
 [[#Astrologian TOC|Back to Top]]
