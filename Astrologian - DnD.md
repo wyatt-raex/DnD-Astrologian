@@ -1,9 +1,14 @@
 Links: [[Dungeons and Dragons]]
 Tags: #TTRPG #DnD #DnD-Classes 
 
-# Astrologian
+# Astrologian TOC
+- [[#Class Features]]
+- [[#Astrologian Sects (Subclasses)]]
+- [[#Astrologian Cards]]
+- [[#Astrologian Spells]]
 
 ## Class Features
+[[#Astrologian TOC|Back to Top]]
 ### Hit Points
 - *Hit Dice:* 1d6 per AST level
 - *Hit Points at 1st Level:* 6 + Constitution modifier
@@ -11,16 +16,20 @@ Tags: #TTRPG #DnD #DnD-Classes
 
 ### Proficiencies
 - *Armor:* <i><u>None or Light? Probably none</u></i>
-- *Weapons:* Planispheres/Star Globes, Daggers, darts, slings,  light crossbows
+- *Weapons:* Planispheres/Star Globes, daggers, darts, slings,  light crossbows
 - *Tools:* None
 - *Saving Throws:* Wisdom, Intelligence
 - *Skills:* Choose two from Arcana, Medicine, Investigation, Religion, Insight, Perception 
 
 ## Astrologian Sects (Subclasses)
+[[#Astrologian TOC|Back to Top]]
+
 - Subclass gained at <i><u>X lvl</i></u>.
 - <i><u>Could have one subclass/sect here that uses `divination` skill the same way as Wizard's divination to change a dice roll once per day.</i></u>
 
 ## Astrologian Cards
+[[#Astrologian TOC|Back to Top]]
+
 - Each card has a <i><u>Possibly unique</i></u> in combat/out of combat ability. (*Challenge is making each unique yet general enough to have some use no matter what*)
 
 ### Play Limit of Astologian Cards
@@ -62,6 +71,8 @@ Trying to base these off of the old AST card effects: https://www.reddit.com/r/f
 - *Put range here*
 
 ## Astrologian Spells
+[[#Astrologian TOC|Back to Top]]
+
 - Astrologian spellcasting is based off Wisdom.
 
 ### Spell Save DC
