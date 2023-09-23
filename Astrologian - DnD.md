@@ -36,8 +36,12 @@ Tags: #TTRPG #DnD #DnD-Classes
 - *In Combat:* The next attack against the targeted entity will have <i><u>Disadvantage? | or minus 1d4 amount</i></u> applied to their attack roll. (<i>functions similarly to Bane spell</i>).
 - *Out of Combat:*
 #### The Ewer
-- *In Combat:*
-- *Out of Combat:*
+- *Effect:* <i><u>The targeted entity regains 1 lvl X spellslot (<i>functions similarly to Wizard's Arcane Recovery</i>)</i></u>.
+-  What level of spellslot regained is choosen by targeted entity given the conditions below:
+	- Initially can only regain a lvl 1 spellslot.
+	- Upon AST level <i><u>5</u></i> can regain up to a lvl 2 spellslot.
+	- Upon AST level <i><u>10</u></i> can regain up to a lvl 3 spellslot.
+	- Upon AST level <i><u>15</u></i> can regain up to a lvl 4 spellslot.
 #### The Spire
 - *In Combat:*
 - *Out of Combat:*
