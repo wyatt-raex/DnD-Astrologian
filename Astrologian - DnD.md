@@ -24,6 +24,7 @@ Tags: #TTRPG #DnD #DnD-Classes
 - Each card has a <i><u>Possibly unique</i></u> in combat/out of combat ability. (*Challenge is making each unique yet general enough to have some use no matter what*)
 
 ### Arcana Cards
+Trying to base these off the old AST card effects: https://www.reddit.com/r/ffxiv/comments/7xbaux/wtf_does_that_ast_card_do_again_cheat_sheet/
 #### The Balance
 - *In Combat:* The next attack the targeted entity does will have <i><u>1dX</i></u> additional damage added to it of the same type.
 - *Out of Combat:*
