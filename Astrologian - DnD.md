@@ -25,22 +25,22 @@ Tags: #TTRPG #DnD #DnD-Classes
 
 ### Arcana Cards
 #### The Balance
-*In Combat:* The next attack the targeted entity does will have <i><u>1dX</i></u> additional damage added to it of the same type.
-*Out of Combat:*
+- *In Combat:* The next attack the targeted entity does will have <i><u>1dX</i></u> additional damage added to it of the same type.
+- *Out of Combat:*
 #### The Arrow
-*Effect:* The targeted entity gains <i><u>Advantage | or plus 1d4 amount</u></i> to their next Attack/Skill/Spell check (<i>Functions similarly to Bless/Guidance</i>).
+- *Effect:* The targeted entity gains <i><u>Advantage | or plus 1d4 amount</u></i> to their next Attack/Skill/Spell check (<i>Functions similarly to Bless/Guidance</i>).
 #### The Spear
-*In Combat:*
-*Out of Combat:*
+- *In Combat:*
+- *Out of Combat:*
 #### The Bole
 - *In Combat:* The next attack against the targeted entity will have <i><u>Disadvantage? | or minus 1d4 amount</i></u> applied to their attack roll. (<i>functions similarly to Bane spell</i>).
-*Out of Combat:*
+- *Out of Combat:*
 #### The Ewer
-*In Combat:*
-*Out of Combat:*
+- *In Combat:*
+- *Out of Combat:*
 #### The Spire
-*In Combat:*
-*Out of Combat:*
+- *In Combat:*
+- *Out of Combat:*
 
 ### Minor Arcana Cards
 #### Lord of Crowns
