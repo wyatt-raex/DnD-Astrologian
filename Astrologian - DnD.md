@@ -49,12 +49,12 @@ Tags: #TTRPG #DnD #DnD-Classes
 ### Minor Arcana Cards
 #### Lord of Crowns
 - *Combat only?*
-- When played damage a target for <i><u>1dX</i></u>. Can choose damage type between: Bludgeoning, Piercing, or Slashing.
+- Damage a target for <i><u>1dX</i></u>. Can choose damage type between: Bludgeoning, Piercing, or Slashing.
 - *Put range here*
 
 #### Lady of Crowns
 - *Combat only?*
-- Heal the target for <i><u>1dX</i></u>.
+- Heal the target for <i><u>1dX | or similar to FFXIV aoe heal for 1dX in X feet/meter range originating from the AST</i></u>.
 - *Put range here*
 
 ## Astrologian Spells
@@ -99,6 +99,7 @@ Tags: #TTRPG #DnD #DnD-Classes
 - Action
 - <i><u>Lvl 4+ spell?</i></u>
 - *Once per combat* Gives AST 2 actions for <i><u>X number of</i></u> turns.
+- *Alternative effect* <u>Lightspeed is no longer concentration spell.</u> Instead of effect described on the line above, using both your action and bonus action draw 2 cards and for each card play it's effect on a target. (<i>for example if `The Balance` and `The Bole` are drawn you can play `The Balance` on one target then play `The Bole` on either the same target or another target</i>).
 
 #### Earthly Star
 - ???
